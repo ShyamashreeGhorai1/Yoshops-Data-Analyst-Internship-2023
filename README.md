@@ -5,11 +5,11 @@
 
  🧿 Skills :
 
-         ◐ POWER BI
+         ◐ Power BI
          
-         ◐◐ PYTHON 
+         ◐◐ Python
 
-         ◐◐◐ WEB SCRAPING
+         ◐◐◐ Web Scraping
 
 
 🚀 This Repository contains the works which i did as an Intern with Yoshops.
