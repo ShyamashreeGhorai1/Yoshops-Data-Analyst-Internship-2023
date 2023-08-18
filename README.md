@@ -1,1 +1,1 @@
-📊📉📈 Yoshops Internship 2023 📈📉📊
+📊📉📈 <b> Yoshops Internship 2023 </b> 📈📉📊
