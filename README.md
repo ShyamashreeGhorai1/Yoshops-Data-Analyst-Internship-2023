@@ -3,7 +3,7 @@
 ![yoshops](https://github.com/ShyamashreeGhorai1/Yoshops-Data-Analyst-Internship-2023/assets/131132617/0f6a9052-6668-4253-b4d3-25863a55a56c)
 
 
-Skills :
+🧿 Skills :
 
          ◐ POWER BI
          
